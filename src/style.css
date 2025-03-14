@@ -1,0 +1,186 @@
+/* style.css */
+
+/* Estilos gerais */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }
+  
+  .max-w-xl {
+    max-width: 48rem;
+  }
+  
+  .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  /* Estilos para o quadro de palavras-chave */
+  .fixed {
+    position: fixed;
+  }
+  
+  .left-4 {
+    left: 2rem;
+  }
+  
+  .top-16 {
+    top: 4rem;
+  }
+  
+  .bg-white {
+    background-color: white;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rounded-lg {
+    border-radius: 0.5rem;
+  }
+  
+  .border {
+    border: 1px solid #e2e8f0;
+  }
+  
+  .w-48 {
+    width: 18rem;
+  }
+  
+  .text-md {
+    font-size: 1rem;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .mb-2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Estilos para o editor de lógica */
+  .flex-1 {
+    flex: 1;
+  }
+  
+  .ml-56 {
+    margin-left: 14rem;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  .border {
+      border: 1px solid #ccc;
+  }
+  
+  .p-2{
+      padding: 0.5rem;
+  }
+  
+  .w-full{
+      width: 100%;
+  }
+  
+  .bg-blue-500{
+      background-color: #3b82f6;
+  }
+  
+  .text-white{
+      color: white;
+  }
+  
+  .rounded{
+      border-radius: 0.25rem;
+  }
+  
+  .mb-4{
+      margin-bottom: 1rem;
+  }
+  
+  .gap-2{
+      gap: 0.5rem;
+  }
+  
+  .bg-green-500{
+      background-color: #22c55e;
+  }
+  
+  .bg-yellow-500{
+      background-color: #facc15;
+  }
+  
+  .border-l-4{
+      border-left-width: 4px;
+  }
+  
+  .border-blue-500{
+      border-left-color: #3b82f6;
+  }
+  
+  .text-lg{
+      font-size: 1.125rem;
+  }
+
+  .bg_black_x {
+    font-size: 1.125rem;
+    color: black;
+  }
+  
+  .gap-2 {
+    gap: 0.5rem;
+  }
+
+  .kw-list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .kw-item {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; /* Garante espaçamento uniforme */
+    width: 100px; /* Define um tamanho fixo para alinhar melhor */
+  }
+
+  .pd_del {
+    color: red;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 4px;
+}
+  
+  .mouse-hover{
+    cursor: pointer;
+  }
+
+  ul{
+    list-style-type: none;
+  }
+  
+  .kw{
+    text-align: left;
+  }
+  /* Estilos para as palavras-chave */
+  .text-blue-600 { color: blue; }
+  .text-green-600 { color: green; }
+  .text-red-600 { color: red; }
+  .text-purple-600 { color: purple; }
+  .text-orange-600 { color: orange; }
+  .text-gray-600 { color: gray; }
+  .text-yellow-600 { color: yellow; }
+  .text-pink-600 { color: pink; }
+
+  
